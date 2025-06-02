@@ -1,0 +1,39 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment
+.env
+*.env
+venv/
+.venv/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Generated files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+
+# custom files
+_video_/*
+_video_
+
